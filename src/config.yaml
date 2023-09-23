@@ -1,0 +1,6 @@
+- label: Tab 1
+  component: Component1
+  tableData: data1.json
+# - label: Tab 2
+#   component: Component2
+#   tableData: data2.json

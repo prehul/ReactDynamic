@@ -1,0 +1,21 @@
+[
+    {
+      "componentName": "Component1",
+      "tableData": "data1.json",
+      "formFields": [
+        { "name": "name", "label": "Name", "type": "text" },
+        { "name": "description", "label": "Description", "type": "text" },
+        { "name": "description2", "label": "Description2", "type": "text" }
+
+      ]
+    },
+    {
+      "componentName": "Component2",
+      "tableData": "data2.json",
+      "formFields": [
+        { "name": "title", "label": "Title", "type": "text" },
+        { "name": "content", "label": "Content", "type": "textarea" }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+tabs:
+  - label: Users
+    table:
+      columns:
+        - Header: ID
+          accessor: id
+        - Header: Name
+          accessor: name
+        - Header: Age
+          accessor: age
+      data:
+        - id: 1
+          name: John
+          age: 25
+        - id: 2
+          name: Alice
+          age: 30
+  - label: Products
+    table:
+      columns:
+        - Header: ID
+          accessor: id
+        - Header: Name
+          accessor: name
+        - Header: Price
+          accessor: price
+      data:
+        - id: 101
+          name: Widget A
+          price: $10
+        - id: 102
+          name: Widget B
+          price: $15
